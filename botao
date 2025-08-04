@@ -1,0 +1,12 @@
+<html>
+    <body>
+<h1>exemplon de botão</h1>
+<a href="https://pt.wikipedia.org/wiki/Hajime_no_Ippo">
+<button>clique aqui</button>
+</a>
+
+    </body>
+    <style>
+
+    </style>
+</html>
